@@ -3,10 +3,6 @@ title: "Coursera Getting And Cleaning Data Course Project Codebook"
 author: "mehmet"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 This codebook explains the dataset named "tidydata.txt" which is located in this repo.
 
 
