@@ -1,11 +1,10 @@
 ---
-title: "Coursera Getting And Cleaning Data Course Project Codebook"
 author: "mehmet"
 ---
 
 
 
-#Coursera Getting And Cleaning Data Course Project Codebook
+# Coursera Getting And Cleaning Data Course Project Codebook
 
 This codebook explains the dataset named "tidydata.txt" which is located in this repo.
 
